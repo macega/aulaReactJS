@@ -1,2 +1,0 @@
-# aulaReactJS
-Created with CodeSandbox
